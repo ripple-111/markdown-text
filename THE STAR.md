@@ -58,8 +58,16 @@
 
 **前端**
 
-electron 桌面端开发框架结合typescript开发
+electron 桌面端开发框架结合typescript开发页面
 
-使用md-editor
+使用md-editor-v3作为markdown解析组件
 
+tailwindcss、sass编写样式
 
+**后端**
+
+koa2 restful接口+sequelize+mysql+ipfs-client存储数据
+
+库
+
++ [md-editor-v3]([imzbf/md-editor-v3: Markdown editor for vue3, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it... (github.com)](https://github.com/imzbf/md-editor-v3))
